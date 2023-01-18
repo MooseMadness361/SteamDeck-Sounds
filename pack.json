@@ -1,0 +1,10 @@
+{
+  "name": "Wii Shop Music",
+  "description": "That classic Wii Shop Music you love.",
+  "author": "MooseMadness361",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
